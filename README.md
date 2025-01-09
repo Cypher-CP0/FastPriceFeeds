@@ -20,19 +20,19 @@ Text-Chat : Supports Textchat with users and sign up to via their Browser wallet
 ## Installation 
 To set up FastPriceFeeds locally, follow these steps: 
 1.	Clone the repository:
-git clone https://github.com/Cypher-CP0/FastPriceFeeds.git
+```git clone https://github.com/Cypher-CP0/FastPriceFeeds.git```
 2.	Navigate to the project directory:
-cd FastPriceFeeds
+```cd FastPriceFeeds```
 3.	Install dependencies:
-npm install
+```npm install```
 4.	Run
-npm run dev
+```npm run dev```
 ## Contributing 
 We welcome contributions! To contribute to FastPriceFeeds, please follow these steps: 
 1. Fork the repository. 
 2. Create a new branch:
-	git checkout -b feature/NewFeature
+	```git checkout -b feature/NewFeature```
 3. Make your changes and commit them:
-	git commit -m 'Added new feature'
+	```git commit -m 'Added new feature'```
 4. Push to the branch:
-	git push origin feature/YourFeature
+	```git push origin feature/YourFeature```
